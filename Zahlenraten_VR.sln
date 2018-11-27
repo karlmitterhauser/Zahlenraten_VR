@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zahlenraten_VR", "Zahlenraten_VR.csproj", "{B6D8FE7A-4AC6-86E8-6CD5-477255AA5A34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zahlenraten_VR.Editor", "Zahlenraten_VR.Editor.csproj", "{949F535C-3BEA-921C-5BA2-127C50A1C325}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{B6D8FE7A-4AC6-86E8-6CD5-477255AA5A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6D8FE7A-4AC6-86E8-6CD5-477255AA5A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6D8FE7A-4AC6-86E8-6CD5-477255AA5A34}.Release|Any CPU.Build.0 = Release|Any CPU
-		{949F535C-3BEA-921C-5BA2-127C50A1C325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{949F535C-3BEA-921C-5BA2-127C50A1C325}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{949F535C-3BEA-921C-5BA2-127C50A1C325}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{949F535C-3BEA-921C-5BA2-127C50A1C325}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
